@@ -1,0 +1,2 @@
+To add a user to sudo: sudo usermod -a -G sudo <username>
+to make the wheel sudo group operational cd /etc visudo and uncomment wheel group
